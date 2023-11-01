@@ -6,4 +6,4 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/spring-microservice-251023-licensing-prod
     username: postgres
-    password: "{cipher}f654d5d80fc4046cd4ff7b89b30852d470f0ed26fa66839f24aa9296a6f5ab73"
+    password: "{cipher}f654d5d80fc4046cd4ff7b89b30852d470f0ed26fa66839f24aa9296a6f5ab72"
